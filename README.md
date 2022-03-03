@@ -1,4 +1,4 @@
-# WebpageKeywordRemover
+# Word Scrubber
 
 ## Setup 
 
